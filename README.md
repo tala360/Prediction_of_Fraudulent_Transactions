@@ -1,2 +1,16 @@
-# Prediction_of_Fraudulent_Transactions
-Performing EDA and Building a ML Model to Detect Fraudulent Transactions
+# Prediction of Fraudulent Transactions
+## Project Description
+This project explores techniques and models to predict fraudulent transactions in order to minimize financial losses and improve security in the financial sector. With the increasing use of electronic transactions, fraudulent activities have become more prevalent and it is crucial to develop effective methods to identify and prevent such activities.
+
+## Methodology
+**1. Exploratory Data Analysis and Data Wrangling:** explore, understand, and clean the data
+**2. Feature Engineering:** transforming, and creating features from raw data
+**3. Model Building:** after splitting the data, XGBoost is used.
+
+## Dataset
+[Dataset can be found here](https://www.kaggle.com/datasets/ealaxi/paysim1)
+
+## Files
+**1. EDA + Model.ipynb:** file containing methodology
+**2. financial_data.csv:** the dataset used in this project
+
