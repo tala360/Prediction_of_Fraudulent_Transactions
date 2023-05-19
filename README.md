@@ -11,6 +11,6 @@ This project explores techniques and models to predict fraudulent transactions i
 [Dataset can be found here](https://www.kaggle.com/datasets/ealaxi/paysim1)
 
 ## Files
-**1. model.ipynb:** file containing methodology
+**1. model.ipynb:** file containing methodology</br>
 **2. financial_data.csv:** the dataset used in this project
 
